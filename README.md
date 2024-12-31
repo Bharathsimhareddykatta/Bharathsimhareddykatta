@@ -54,12 +54,6 @@ Check out all my projects at [My Portfolio](https://your-portfolio-link)
 [![GitHub](https://github.com/Bharathsimhareddykatta)  
 [![Portfolio](https://bharathsimhareddykatta.github.io/bharathsimha.github.io/)
 
----
-
-### 📊 Profile Views:
-![Profile views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
-
----
-
+-
 ### ✉️ How to Reach Me:
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+📧 Email: kattabharatsimhareddy7@gmail.com  
