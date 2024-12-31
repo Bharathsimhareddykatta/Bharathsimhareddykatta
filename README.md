@@ -15,22 +15,22 @@ I thrive on turning raw data into actionable insights that drive impactful decis
 
 ### 🚀 My Projects:
 Here are some projects that highlight my data analysis journey:
-1. **Sales Dashboard**  
-   *Tools: Power BI*  
-   A dynamic dashboard analyzing sales performance across regions, products, and time.  
-   [View Project](https://your-portfolio-link/sales-dashboard)
+1. **House price prediction**  
+   *Tools: *  
+  A dynamic dashboard that analyzes house price trends based on various factors like location, square footage, and market conditions.  
+   [View Project](https://github.com/Bharathsimhareddykatta/benguluru-house-pricing)
 
-2. **Customer Segmentation**  
-   *Tools: Python (Pandas, Matplotlib, Seaborn)*  
-   Clustered customers based on purchasing behavior for targeted marketing campaigns.  
-   [View Project](https://your-portfolio-link/customer-segmentation)
+2. **Text summarization**  
+   *Tools: Python (NLTK, SpaCy, Transformers)*  
+   Built a model to generate concise, coherent summaries of lengthy texts..  
+   [View Project](https://github.com/Bharathsimhareddykatta/Text-Summarization-NLP-Project)
 
-3. **Employee Attrition Analysis**  
-   *Tools: Excel, SQL*  
-   Analyzed employee attrition trends to recommend HR strategies for retention.  
-   [View Project](https://your-portfolio-link/employee-attrition-analysis)
+3. **Movie Recommendation**  
+   *Tools:  Python,Streamlit, NLP*
+   built an end-to-end movie recommendation system using NLP for sentiment analysis and text embedding. Deployed via a Streamlit app for personalized recommendations
+   [View Project](https://github.com/Bharathsimhareddykatta/movie-recommend-website)
 
-Check out all my projects at [My Portfolio](https://your-portfolio-link)
+Check out all my projects at [My Portfolio](https://bharathsimhareddykatta.github.io/bharathsimha.github.io/)
 
 ---
 
