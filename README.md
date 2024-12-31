@@ -40,7 +40,9 @@ Check out all my projects at [My Github](https://github.com/Bharathsimhareddykat
 - **Languages**: Python, SQL  
 - **Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
 - **Other Tools**: Excel, NumPy, Pandas  
-- **Databases**: MySQL, PostgreSQL  
+- **Databases**: MySQL, PostgreSQL
+- **Web Development Frameworks**: Flask,Streamlit
+- **Cloud Platforms**:Heroku,AWS
 
 ---
 
