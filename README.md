@@ -9,7 +9,9 @@ I thrive on turning raw data into actionable insights that drive impactful decis
 - 🌱 I’m currently learning **Excel**, **Power BI**, **SQL**, **Python**  
 - 📊 Skilled in **Data Cleaning**, **Data Visualization**, and **Exploratory Data Analysis (EDA)**  
 - 🧠 Interested in **Machine Learning**, **Predictive Analytics**, and **Business Intelligence**  
-- 📚 Always eager to learn and apply new concepts in the world of data  
+- 📚 Always eager to learn and apply new concepts in the world of data
+- 📝 I regularly write articles on [https://bharathwritesaboutai.blogspot.com/](https://bharathwritesaboutai.blogspot.com/)
+  
 
 ---
 
