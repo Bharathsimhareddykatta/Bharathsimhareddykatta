@@ -56,7 +56,5 @@ Check out all my projects at [My Github](https://github.com/Bharathsimhareddykat
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Bharathsimhareddykatta)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-green?style=flat-square&logo=codepen)](https://bharathsimhareddykatta.github.io/bharathsimha.github.io/)
 
-
--
 ### ✉️ How to Reach Me:
 📧 Email: kattabharatsimhareddy7@gmail.com  
