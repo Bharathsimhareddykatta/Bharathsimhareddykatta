@@ -42,12 +42,10 @@ Check out all my projects at [My Portfolio](https://bharathsimhareddykatta.githu
 
 ---
 
-### 📈 Currently Working On:
+<!-- ### 📈 Currently Working On:
 - Building a comprehensive **HR Analytics Dashboard** using Power BI  
 - Exploring **Advanced SQL Queries** for data extraction and transformation  
-- Deepening my knowledge of **Statistical Analysis**  
-
----
+- Deepening my knowledge of **Statistical Analysis** -->
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://www.linkedin.com/in/bharathsimhareddykatta)  
