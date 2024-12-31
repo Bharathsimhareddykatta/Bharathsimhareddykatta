@@ -32,7 +32,7 @@ Here are some projects that highlight my data analysis journey:
    built an end-to-end movie recommendation system using NLP for sentiment analysis and text embedding. Deployed via a Streamlit app for personalized recommendations
    [View Project](https://github.com/Bharathsimhareddykatta/movie-recommend-website)
 
-Check out all my projects at [My Portfolio](https://bharathsimhareddykatta.github.io/bharathsimha.github.io/)
+Check out all my projects at [My Github](https://github.com/Bharathsimhareddykatta)
 
 ---
 
