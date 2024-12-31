@@ -48,9 +48,10 @@ Check out all my projects at [My Portfolio](https://bharathsimhareddykatta.githu
 - Deepening my knowledge of **Statistical Analysis** -->
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://www.linkedin.com/in/bharathsimhareddykatta)  
-[![GitHub](https://github.com/Bharathsimhareddykatta)  
-[![Portfolio](https://bharathsimhareddykatta.github.io/bharathsimha.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bharathsimhareddykatta/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Bharathsimhareddykatta)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-website-green?style=flat-square&logo=codepen)](https://bharathsimhareddykatta.github.io/bharathsimha.github.io/)
+
 
 -
 ### ✉️ How to Reach Me:
