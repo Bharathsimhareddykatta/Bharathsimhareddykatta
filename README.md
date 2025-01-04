@@ -17,8 +17,7 @@ I thrive on turning raw data into actionable insights that drive impactful decis
 
 ### 🚀 My Projects:
 Here are some projects that highlight my data analysis journey:
-1. **House price prediction**  
-   *Tools: *  
+1. **House price prediction**   
   A dynamic dashboard that analyzes house price trends based on various factors like location, square footage, and market conditions.  
    [View Project](https://github.com/Bharathsimhareddykatta/benguluru-house-pricing)
 
