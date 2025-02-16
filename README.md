@@ -5,12 +5,13 @@ I thrive on turning raw data into actionable insights that drive impactful decis
 
 ---
 
-👨‍💻 About Me
-🌱 Enhancing my expertise in Excel, Power BI, SQL, and Python
-📊 Skilled in Data Cleaning, Data Visualization, and Exploratory Data Analysis (EDA)
-🧠 Passionate about Machine Learning, Predictive Analytics, and Business Intelligence
-📚 Always eager to explore and apply new data concepts
-📝 I regularly share insights on my blog (https://bharathwritesaboutai.blogspot.com/)
+## 👨‍💻 About Me  
+🌱 Enhancing my expertise in **Excel, Power BI, SQL, and Python**  
+📊 Skilled in **Data Cleaning, Data Visualization, and Exploratory Data Analysis (EDA)**  
+🧠 Passionate about **Machine Learning, Predictive Analytics, and Business Intelligence**  
+📚 Always eager to explore and apply new data concepts  
+📝 I regularly share insights on my blog [here](https://bharathwritesaboutai.blogspot.com/)
+
   
 
 ---
