@@ -52,7 +52,7 @@ Check out all my projects at [My Github](https://github.com/Bharathsimhareddykat
 - Deepening my knowledge of **Statistical Analysis** -->
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/bharathsimhareddykatta/](https://www.linkedin.com/in/bharathsimhareddy-katta/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bharathsimhareddy-katta/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Bharathsimhareddykatta)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-green?style=flat-square&logo=codepen)](https://bharathsimhareddykatta.github.io/bharathsimha.github.io/)
 
