@@ -18,16 +18,18 @@ I thrive on turning raw data into actionable insights that drive impactful decis
 
 ### 🚀 My Projects:
 Here are some projects that highlight my data analysis journey:
-1. **House price prediction**   
-  A dynamic dashboard that analyzes house price trends based on various factors like location, square footage, and market conditions.  
-   [View Project](https://github.com/Bharathsimhareddykatta/benguluru-house-pricing)
+1. **AI Resume Tailor**
+  *Tech Stack / Tools: Python, Streamlit, OpenRouter/GPT, PDF/DOCX parsing*
+  What it does: An AI-powered tool that analyzes resumes and job descriptions, identifies keyword matches and gaps, and generates tailored summaries to improve ATS compatibility.
+  [view project](https://github.com/Bharathsimhareddykatta/ai-resume-tailor)
 
-2. **Text summarization**  
-   *Tools: Python (NLTK, SpaCy, Transformers)*  
-   Built a model to generate concise, coherent summaries of lengthy texts..  
-   [View Project](https://github.com/Bharathsimhareddykatta/Text-Summarization-NLP-Project)
 
-3. **Movie Recommendation**  
+2. **HR Analytics Dashboard**
+ *Tech Stack / Tools: Power BI, Excel, Python (for data preprocessing)*
+  An interactive dashboard built using Power BI to analyze and visualize employee data, focusing on key metrics such as attrition rates, department distribution, and performance trends.  
+   [View Project](https://github.com/Bharathsimhareddykatta/HR-Analytics-Dashboard)
+
+4. **Movie Recommendation**  
    *Tools:  Python,Streamlit, NLP*
    built an end-to-end movie recommendation system using NLP for sentiment analysis and text embedding. Deployed via a Streamlit app for personalized recommendations
    [View Project](https://github.com/Bharathsimhareddykatta/movie-recommend-website)
