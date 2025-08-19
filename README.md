@@ -18,10 +18,13 @@ I thrive on turning raw data into actionable insights that drive impactful decis
 
 ### 🚀 My Projects:
 Here are some projects that highlight my data analysis journey:
-1. **AI Resume Tailor**
-  *Tech Stack / Tools: Python, Streamlit, OpenRouter/GPT, PDF/DOCX parsing*
-  What it does: An AI-powered tool that analyzes resumes and job descriptions, identifies keyword matches and gaps, and generates tailored summaries to improve ATS compatibility.
-  [view project](https://github.com/Bharathsimhareddykatta/ai-resume-tailor)
+1. <div class="project">
+  <h3>AI Resume Tailor</h3>
+  <p><strong>Tech Stack / Tools:</strong> Python, Streamlit, OpenRouter/GPT, PDF/DOCX parsing</p>
+  <p><strong>What it does:</strong> An AI-powered tool that analyzes resumes and job descriptions, identifies keyword matches and gaps, and generates tailored summaries to improve ATS compatibility.</p>
+  <p><a href="https://github.com/Bharathsimhareddykatta/ai-resume-tailor" target="_blank">View Project</a></p>
+</div>
+
 
 
 2. **HR Analytics Dashboard**
