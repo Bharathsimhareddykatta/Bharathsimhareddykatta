@@ -36,7 +36,7 @@ Here are some projects that highlight my data analysis journey:
   <h3>Movie Recommendation System</h3>
   <p><strong>Tech Stack / Tools:</strong> Python, Streamlit, NLP</p>
   <p><strong>What it does:</strong> An end-to-end movie recommendation system using NLP for sentiment analysis and text embedding. Deployed via a Streamlit app for personalized recommendations.</p>
-  <p><a href=" https://github.com/Bharathsimhareddykatta/movie-recommend-website" target="_blank">View Project</a></p>
+  <p><a href="https://github.com/Bharathsimhareddykatta/movie-recommend-website" target="_blank">View Project</a></p>
 </div>
 
 Check out all my projects at [My Github](https://github.com/Bharathsimhareddykatta)
