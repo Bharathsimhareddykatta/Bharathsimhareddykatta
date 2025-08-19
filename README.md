@@ -55,7 +55,7 @@ Check out all my projects at [My Github](https://github.com/Bharathsimhareddykat
 
 
 - Exploring **Advanced SQL Queries** for data extraction and transformation  
-- Deepening my knowledge of **Statistical Analysis** -->
+- Deepening my knowledge of **Statistical Analysis**
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bharathsimhareddy-katta/)
