@@ -53,8 +53,7 @@ Check out all my projects at [My Github](https://github.com/Bharathsimhareddykat
 
 ---
 
-<!-- ### 📈 Currently Working On:
-- Building a comprehensive **HR Analytics Dashboard** using Power BI  
+
 - Exploring **Advanced SQL Queries** for data extraction and transformation  
 - Deepening my knowledge of **Statistical Analysis** -->
 
