@@ -51,16 +51,10 @@ Check out all my projects at [My Github](https://github.com/Bharathsimhareddykat
 - **Web Development Frameworks**: Flask,Streamlit
 - **Cloud Platforms**:Heroku,AWS
 
----
-
-
-- Exploring **Advanced SQL Queries** for data extraction and transformation  
-- Deepening my knowledge of **Statistical Analysis**
-
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bharathsimhareddy-katta/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Bharathsimhareddykatta)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-green?style=flat-square&logo=codepen)](https://bharathsimhareddykatta.github.io/bharathsimha.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-website-green?style=flat-square&logo=codepen)](https://bharathsimhareddykatta.github.io/bharath.github.io/)
 
 ### ✉️ How to Reach Me:
 📧 Email: kattabharatsimhareddy7@gmail.com  
