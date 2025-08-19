@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bharath simha reddy Katta
 
-**🎯 Passionate Aspiring Data Analyst**  
+**🎯 Passionate Aspiring Data Analyst / Data Scientist**  
 I thrive on turning raw data into actionable insights that drive impactful decisions. With a strong foundation in data analysis and visualization, I'm continuously exploring tools and techniques to solve real-world problems.
 
 ---
@@ -45,7 +45,7 @@ Check out all my projects at [My Github](https://github.com/Bharathsimhareddykat
 
 ### 🛠️ Tools & Technologies:
 - **Languages**: Python, SQL  
-- **Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
+- **Visualization**: Power BI, Matplotlib, Seaborn  
 - **Other Tools**: Excel, NumPy, Pandas  
 - **Databases**: MySQL, PostgreSQL
 - **Web Development Frameworks**: Flask,Streamlit
